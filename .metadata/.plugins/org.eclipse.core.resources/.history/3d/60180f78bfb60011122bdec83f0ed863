@@ -1,0 +1,8 @@
+package prueba;
+
+public class HellowWord {
+	public static String main(String[] arg) {
+		System.out.println("Hellow Word!");
+		return null;
+	}
+}
